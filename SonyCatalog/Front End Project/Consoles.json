@@ -1,0 +1,13 @@
+[
+		{	"product" : "ps4 console", "bundleName":"PlayStation 4 with Destiny + Vanguard and Watch_Dogs Special Edition" , "url":"resources/console_resources/135137_gen_c.png","price":"500.00"	},
+		{	"product" : "ps4 console", "bundleName":"PlayStation 4 with Call of Duty: Advanced Warfare Day Zero and The Last of Us Remastered" , "url":"resources/console_resources/135138_gen_c.png","price":"600.00"  },
+		{	"product" : "ps4 console", "bundleName":"PlayStation 4 with CoD: Advanced Warfare Day Zero, The Last of Us Remastered , Watch_Dogs and PS+ 12 Months" , "url":"resources/console_resources/135139_gen_c.png","price":"525.00"	},
+		{	"product" : "ps4 console", "bundleName":"PlayStation 4 with Destiny" , "url":"resources/console_resources/300420_gen_c.png","price":"450.00"	},
+		{	"product" : "ps4 console", "bundleName":"PlayStation 4 black" , "url":"resources/console_resources/300853_gen_c.png","price":"400.00"	},
+		{	"product" : "ps4 console", "bundleName":"PlayStation 4 with Grand Theft Auto V and The Last of Us Remastered" , "url":"resources/console_resources/302311_gen_c.png","price":"520.00"	},
+		{	"product" : "ps4 console", "bundleName":"PlayStation 4 with DriveClub" , "url":"resources/console_resources/302736_gen_c.png","price":"450.00"	},
+		{	"product" : "ps4 console", "bundleName":"PlayStation 4 with Far Cry 4" , "url":"resources/console_resources/339657_gen_c.png","price":"450.00"	},
+		{	"product" : "ps4 console", "bundleName":"PlayStation 4 white" , "url":"resources/console_resources/339661_gen_c.png","price":"400.00"	},
+		{	"product" : "ps4 console", "bundleName":"LittleBigPlanet 3 PlayStation 4 Console MEGA Pack - Only at GAME" , "url":"resources/console_resources/342432_gen_c.png","price":"430.00"	}
+
+	]

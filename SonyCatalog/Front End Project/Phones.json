@@ -1,0 +1,15 @@
+[
+		{	"product":"phone","model":"Sony Xperia C3","url":"resources/phones_resources/sony-xperia-c3.jpg","price":"500"},
+		{	"product":"phone","model":"Sony Xperia E1","url":"resources/phones_resources/sony-xperia-e1.jpg","price":"182"},
+		{	"product":"phone","model":"Sony Xperia E1 Dual","url":"resources/phones_resources/sony-xperia-e1.jpg","price":"233"},
+		{	"product":"phone","model":"Sony Xperia E3","url":"resources/phones_resources/sony-xperia-e3-dual.jpg","price":"277"},
+		{	"product":"phone","model":"Sony Xperia E3 Dual","url":"resources/phones_resources/sony-xperia-e3-dual.jpg","price":"310"},
+		{	"product":"phone","model":"Sony Xperia M2 ","url":"resources/phones_resources/sony-xperia-m2.jpg","price":"430"},
+		{	"product":"phone","model":"Sony Xperia M2 Dual","url":"resources/phones_resources/sony-xperia-m2.jpg","price":"488"},
+		{	"product":"phone","model":"Sony Xperia Z1 Compact ","url":"resources/phones_resources/sony-xperia-z1-compact-new.jpg","price":"400"},
+		{	"product":"phone","model":"Sony Xperia Z1  ","url":"resources/phones_resources/sony-xperia-z1-ofic.jpg","price":"480"},
+		{	"product":"phone","model":"Sony Xperia Z2a  ","url":"resources/phones_resources/sony-xperia-z2a.jpg","price":"550"},
+		{	"product":"phone","model":"Sony Xperia Z3 Tablet Compact","url":"resources/phones_resources/sony-xperia-z3-tablet-compact.jpg","price":"700"},
+		{	"product":"phone","model":"Sony Xperia Z3","url":"resources/phones_resources/sony-xperia-z3.jpg","price":"800"}
+	
+	]	

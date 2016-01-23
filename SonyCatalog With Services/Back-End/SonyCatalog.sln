@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SonyCatalog.Models", "SonyCatalog.Models\SonyCatalog.Models.csproj", "{34CAF327-0BD5-444F-BD31-78CF5582127B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SonyCatalog.Data", "SonyCatalog.Data\SonyCatalog.Data.csproj", "{6F4D7058-4126-4AC3-A34C-AC199073D289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SonyCatalog.ConsoleClient", "SonyCatalog.ConsoleClient\SonyCatalog.ConsoleClient.csproj", "{EB8902E0-12DE-4F80-A60B-9051F45CC1BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SonyCatalog.Services", "SonyCatalog.Services\SonyCatalog.Services.csproj", "{99B87E90-5667-4E3D-A9E9-E3016724A656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SonyCatalog.Server", "SonyCatalog.Server\SonyCatalog.Server.csproj", "{1DC9CF34-886F-4DA3-A664-9AD55FB09E1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34CAF327-0BD5-444F-BD31-78CF5582127B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34CAF327-0BD5-444F-BD31-78CF5582127B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34CAF327-0BD5-444F-BD31-78CF5582127B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34CAF327-0BD5-444F-BD31-78CF5582127B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F4D7058-4126-4AC3-A34C-AC199073D289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F4D7058-4126-4AC3-A34C-AC199073D289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F4D7058-4126-4AC3-A34C-AC199073D289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F4D7058-4126-4AC3-A34C-AC199073D289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB8902E0-12DE-4F80-A60B-9051F45CC1BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB8902E0-12DE-4F80-A60B-9051F45CC1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB8902E0-12DE-4F80-A60B-9051F45CC1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB8902E0-12DE-4F80-A60B-9051F45CC1BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99B87E90-5667-4E3D-A9E9-E3016724A656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B87E90-5667-4E3D-A9E9-E3016724A656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B87E90-5667-4E3D-A9E9-E3016724A656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B87E90-5667-4E3D-A9E9-E3016724A656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DC9CF34-886F-4DA3-A664-9AD55FB09E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC9CF34-886F-4DA3-A664-9AD55FB09E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC9CF34-886F-4DA3-A664-9AD55FB09E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC9CF34-886F-4DA3-A664-9AD55FB09E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

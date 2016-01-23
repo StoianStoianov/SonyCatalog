@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="scripts/libs/jquery-2.1.1.min.js"></script>
+    <script src="scripts/libs/handlebars-v2.0.0.js"></script>
+    <script src="scripts/libs/underscore.js"></script>
+</head>
+<body>
+    <script id="tv-template" type="text/x-handlebars-template">
+        <article class="tv-products">
+            <h2 class="article-header">{{title}}</h2>
+            <h3 class="bundle-title">{{model}}</h3>
+            <img src="{{urlSrc}}" class="article-picture" />
+            <div><span>$ </span>{{price}}</div>
+        </article>
+    </script>
+    <header>
+        <h1></h1>
+    </header>
+    <section class="tv-section">
+        <div id="buttonsContainer">
+            <input type="button" class="buttons" id="sortByName" value="name" />
+            <input type="button" class="buttons" id="sortByPrice" value="price" />
+        </div>
+        <div id="contentWrapper">
+          
+        </div>
+</section>
+    <script src="scripts/content_generator.js"></script>
+    <script src="scripts/tv_script.js"></script>
+</body>
+</html>

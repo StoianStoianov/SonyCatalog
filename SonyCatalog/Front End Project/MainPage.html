@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <!--<meta name="viewport" content="width=device-width; height=device-height; maximum-scale=1.4;
+initial-scale=1.0"/> -->
+
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="scripts/libs/jquery-2.1.1.min.js"></script>
+    <script src="scripts/libs/handlebars-v2.0.0.js"></script>
+    <script src="scripts/libs/bootstrap/bootstrap.js"></script>
+    <script src="scripts/libs/bootstrap/bootstrap.min.js"></script>
+    <link href="styles/main_page_style.css" rel="stylesheet" />
+    <link href="styles/bootstrap.css" rel="stylesheet" />
+    <link href="styles/normalize.css" rel="stylesheet" />
+</head>
+<body>
+    <script id="console-template" type="text/x-handlebars-template">
+        <article class="console-products">
+            <h2 class="article-header">{{title}}</h2>
+            <h3 class="bundle-title">{{bundleName}}</h3>
+            <img src="{{urlSrc}}" class="article-picture" />
+            <div><span>$ </span>{{price}}</div>
+        </article>
+    </script>
+
+    <script id="phone-template" type="text/x-handlebars-template">
+        <article class="phone-products">
+
+            <h2 class="article-header">Article: {{title}}</h2>
+            <h3 class="phone-title">{{model}}</h3>
+            <img src="{{urlSrc}}" class="article-picture" />
+
+            <div><span>$ </span>{{price}}</div>
+
+        </article>
+    </script>
+
+    <script id="tv-template" type="text/x-handlebars-template">
+        <article class="tv-products">
+            <h2 class="article-header">Article: {{title}}</h2>
+            <h3 class="bundle-title">{{model}}</h3>
+            <img src="{{urlSrc}}" class="article-picture" />
+            <div><span>$ </span>{{price}}</div>
+        </article>
+    </script>
+
+    <header>
+        <img id="logo" src="resources/main_page_resources/download.jpg" alt="image" />
+        <h1>Welcome to our sony site</h1>
+        <ul class="main-nav">
+            <li class="main-nav-li"><a href="#">Phones</a></li>
+            <li class="main-nav-li"><a href="#">Consoles</a></li>
+            <li class="main-nav-li"><a href="#">Tvs</a></li>
+        </ul>
+    </header>
+    <div class="content-div-outer">
+    <section class="sortBtnSectionHide">
+
+        <span class="sort">Sort by: </span>
+
+        <button id="sortByName" class="btn btn-default">Name</button>
+        <button id="sortByPrice" class="btn btn-default">Price</button>
+
+   </section>
+        
+        <div class="content-inner">
+            <section class="content">
+                <section class="random-phones"></section>
+                <section class="random-consoles"></section>
+                <section class="random-tvs"></section>
+            </section>
+            </div>
+    </div>
+
+
+    <footer>
+        <div>
+            Copyright &copy2015,All Rights Reserved
+        </div>
+    </footer>
+
+    <script src="scripts/content_generator.js"></script>
+    <script src="scripts/main_page_content.js"></script>
+    
+</body>
+</html>

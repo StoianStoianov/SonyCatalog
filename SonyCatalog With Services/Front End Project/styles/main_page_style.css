@@ -1,0 +1,138 @@
+﻿.sortBtnSectionHide{
+    display:none;
+}
+
+.sortBtnSectionShow{
+    display:block;
+
+}
+
+.content .phone-products{
+    display:inline-block;
+    vertical-align: top;
+}
+h1{
+    display:inline;
+    color: rgb(18, 102, 192);
+    text-shadow: 3px 3px 3px #0B10A2;
+    white-space: nowrap;
+    margin:0 0 0 2%;
+    font-size: 3em;
+    -webkit-animation: slidein 3s;
+    animation: slidein 3s;
+}
+
+header {
+    overflow: hidden;
+}
+
+@-webkit-keyframes slidein {
+    0% {
+        padding-left: 10%;
+    }
+    100% {
+        padding-left:0;
+    }
+}
+
+@keyframes slidein {
+    0% {
+        padding-left: 10%;
+    }
+    100% {
+        padding-left:0;
+    }
+}
+
+#logo {
+    float: left;
+}
+.main-nav-li {
+display:inline;
+
+
+ }
+.main-nav-li a {
+
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 5px;
+    text-decoration: none;
+
+}
+.main-nav-li a:hover{
+    border-bottom: 1px solid black;
+}
+.content{
+    width: 100%;
+}
+.phone-products{
+
+    margin: 2%;
+    width: 15%;
+    padding: 5px;
+}
+.console-products{
+    margin: 2%;
+    width: 20%;
+    padding: 5px;
+    display:inline-block;
+    vertical-align: top;
+}
+.console-products h3{
+    height: 40%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.tv-products{
+    margin: 2%;
+    width: 100%;
+    display: inline-block;
+}
+
+.sort{
+    font-style: italic;
+}
+section{
+    padding-left:5px;
+}
+@media screen and (max-width: 600px) {
+    .main-nav-li {
+        display: block;
+    }
+    h1{
+        white-space: normal;
+    }
+    .phone-products{
+         width: 100%;
+         border-bottom: 1px solid gray;
+     }
+
+    .console-products{
+        width: 100%;
+        border-bottom: 1px solid gray;
+    }
+
+}
+.content-div-outer{
+    background-color: #F0EDED;
+    padding: 5px;
+}
+.content-inner{
+    background-color: white;
+    width: 80%;
+    margin: 0 10%;
+}
+button{
+    background-color: rgba(128, 181, 230, 0.47);
+}
+
+.random-phones article {
+    width: 25%;
+    margin: 0;
+}
+
+
+footer div{
+    text-align:center;
+}

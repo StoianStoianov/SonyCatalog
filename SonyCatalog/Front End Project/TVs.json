@@ -1,0 +1,13 @@
+[
+		{	"product":"tv","model":"84.6 (diag) X950B Flagship 4K Ultra HD TV","url":"resources/tvs_resources/pSNYNA-XBR85X950B_main_v500.png","price":"24999.99"	},
+		{	"product":"tv","model":"65 Class (diag) X950B Flagship 4K Ultra HD TV","url":"resources/tvs_resources/pSNYNA-XBR85X950B_main_v500.png","price":"6999.99"	},
+		{	"product":"tv","model":"78.6 (diag) X900B Premium 4K Ultra HD TV","url":"resources/tvs_resources/pSNYNA-XBR79X900B_main_v500.png","price":"7999.99"	},
+		{	"product":"tv","model":"64.5 (diag) X850B 4K Ultra HD TV","url":"resources/tvs_resources/pSNYNA-XBR65X850B_main_v500.png","price":"2499.99"	},
+		{	"product":"tv","model":"64.5 (diag) W950B Ultimate LED HDTV","url":"resources/tvs_resources/pSNYNA-KDL65W950B_main_v500.png","price":"1999.99"	},
+		{	"product":"tv","model":"69.5 (diag) W850B Premium LED HDTV","url":"resources/tvs_resources/pSNYNA-KDL70W850B_main_v500.png","price":"2099.99"	},
+		{	"product":"tv","model":"50 (diag) W800B Premium LED HDTV","url":"resources/tvs_resources/pSNYNA-KDL50W800B_main_v500.png","price":"999.99"	},
+		{	"product":"tv","model":"60 (diag) W630B LED HDTV","url":"resources/tvs_resources/pSNYNA-KDL60W630B_main_v500.png","price":"999.99"	},
+		{	"product":"tv","model":"32 Class (31.5 diag) R420B Series LED HDTV","url":"resources/tvs_resources/pSNYNA-KDL32R420B_main_v500.png","price":"279.99"	},
+		{	"product":"tv","model":"60 (diag.) R510A Series LED HDTV","url":"resources/tvs_resources/pSNYNA-KDL60R510A_main_v500.png","price":"899.99"	}
+		
+	]
